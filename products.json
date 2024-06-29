@@ -1,0 +1,27 @@
+{"products": [
+        
+        {
+   "id":1,             
+"name": "Awesome Product",
+"price": "29.99",
+"sizes": ["S", "M", "L", "XL"],
+"images": [
+    "https://www.berrylush.com/cdn/shop/products/1_front_36065fc7-b8f9-49d0-88a0-c7ca13f826be.jpg?v=1700476681&width=1000",
+    "https://www.berrylush.com/cdn/shop/products/1_77598113-2388-4424-a26a-b70a88a7ab2e.jpg?v=1698831429&width=1000",
+    "https://www.berrylush.com/cdn/shop/products/1_0e7cf2b4-2e90-440f-a7cd-f881083b2ded.jpg?v=1698831678&width=1000"
+]
+        },
+        {
+ "id":2,   
+"name": "Awesome Product",
+"price": "29.99",
+"sizes": ["S", "M", "L", "XL"],
+"images": [
+      "https://www.berrylush.com/cdn/shop/products/1_front_36065fc7-b8f9-49d0-88a0-c7ca13f826be.jpg?v=1700476681&width=1000",
+      "https://www.berrylush.com/cdn/shop/products/1_77598113-2388-4424-a26a-b70a88a7ab2e.jpg?v=1698831429&width=1000",
+      "https://www.berrylush.com/cdn/shop/products/1_0e7cf2b4-2e90-440f-a7cd-f881083b2ded.jpg?v=1698831678&width=1000"
+        ]
+          }
+]
+}
+
