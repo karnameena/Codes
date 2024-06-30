@@ -2,7 +2,7 @@
         
     {
 "id":1,             
-"name": "Floral Print Fit&Flare Dress",
+"name": "Floral Print Fit&Flare",
 "price": "660 ",
 "sizes": ["S", "M", "L", "XL"],
 "images": [
@@ -13,7 +13,7 @@
     },
     {
 "id":2,             
-"name": "Girls Ribbed A-Line Dress ",
+"name": "Girls Ribbed A-Line",
 "price": "540 ",
 "sizes": ["S", "M", "L", "XL"],
 "images": [
@@ -24,7 +24,7 @@
             },
  {
  "id":3,             
-"name": "Girl Floral Print  ",
+"name": "Girl Floral Print",
 "price": "649 ",
 "sizes": ["S", "M", "L", "XL"],
 "images": [
@@ -46,7 +46,7 @@
    },
    {
     "id":5,             
-   "name": "Girls Tie & Dye Shirt Dress ",
+   "name": "Girls Tie & Dye Shirt",
    "price": " 699 ",
    "sizes": ["S", "M", "L", "XL"],
    "images": [
@@ -57,167 +57,167 @@
    },
    {
     "id":6,             
-  "name": " ",
- "price": " ",
+  "name": "Girls Embroidery Gown ",
+ "price": "1440 ",
  "sizes": ["S", "M", "L", "XL"],
  "images": [
-    " ",
-    " ",
-    " "
+    " https://assets.ajio.com/medias/sys_master/root/20240408/xWMi/66131bfb16fd2c6e6aa3a4f4/-1117Wx1400H-467198170-maroon-MODEL.jpg",
+    " https://assets.ajio.com/medias/sys_master/root/20240408/TigI/66131bfb16fd2c6e6aa3a538/-1117Wx1400H-467198170-maroon-MODEL2.jpg",
+    "https://assets.ajio.com/medias/sys_master/root/20240408/AoUz/66131bfb16fd2c6e6aa3a534/-1117Wx1400H-467198170-maroon-MODEL3.jpg "
       ]
    },
    {
-    "id":7,             
-    "name": " ",
-    "price": " ",
+    "id":7,               
+    "name": "A-Line Dress & Ruffled ",
+    "price": "699 ",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       " https://assets.ajio.com/medias/sys_master/root/20240103/Wzsu/6594685eafa4cf41f5fd911a/-473Wx593H-466938883-navy-MODEL.jpg",
+       "https://assets.ajio.com/medias/sys_master/root/20240103/Pv1g/6594685eafa4cf41f5fd90c5/-1117Wx1400H-466938883-navy-MODEL2.jpg ",
+       "https://assets.ajio.com/medias/sys_master/root/20240103/uOEJ/6594685eafa4cf41f5fd90c7/-1117Wx1400H-466938883-navy-MODEL3.jpg "
          ]
    },
    {
     "id":8,             
-    "name": " ",
-    "price": " ",
+    "name": "Girls Embellished Fit ",
+    "price": " 899",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       "https://assets.ajio.com/medias/sys_master/root/20231229/Owoi/658ec997ddf7791519f5b8cc/-473Wx593H-466929335-yellow-MODEL.jpg ",
+       " https://assets.ajio.com/medias/sys_master/root/20231229/znM1/658ec997ddf7791519f5b85b/-473Wx593H-466929335-yellow-MODEL3.jpg",
+       " https://assets.ajio.com/medias/sys_master/root/20231229/yXa5/658ec997ddf7791519f5b882/-1117Wx1400H-466929335-yellow-MODEL2.jpg"
          ]
    },
    {
     "id":9,             
-    "name": " ",
-    "price": " ",
+    "name": " Girls A-Line Dress ",
+    "price": " 699",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       " https://assets.ajio.com/medias/sys_master/root/20240102/Xt2k/6594123eafa4cf41f5fcc0de/-473Wx593H-466940000-black-MODEL.jpg",
+       " https://assets.ajio.com/medias/sys_master/root/20240102/3Ayq/65941245afa4cf41f5fcc160/-1117Wx1400H-466940000-black-MODEL3.jpg",
+       " https://assets.ajio.com/medias/sys_master/root/20240102/qQ5h/6594123eafa4cf41f5fcc08c/-1117Wx1400H-466940000-black-MODEL2.jpg"
          ]
    },
    {
     "id":10,             
-    "name": " ",
-    "price": " ",
+    "name": "Girls Relaxed Fit",
+    "price": "499 ",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       "https://assets.ajio.com/medias/sys_master/root/20231116/tuQ7/655634a8afa4cf41f58e4169/-1117Wx1400H-442352231-orange-MODEL.jpg ",
+       " https://assets.ajio.com/medias/sys_master/root/20231116/voHt/65562792ddf779151989a5be/-1117Wx1400H-442352231-orange-MODEL2.jpg",
+       "https://assets.ajio.com/medias/sys_master/root/20231116/Efsl/65562d0fafa4cf41f58e19bf/-1117Wx1400H-442352231-orange-MODEL3.jpg "
          ]
    },
    {
     "id":11,             
-    "name": " ",
-    "price": " ",
+    "name": "Checked Collar-Neck ",
+    "price": "462 ",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       "https://assets.ajio.com/medias/sys_master/root/20221019/RmRz/63501537f997ddfdbd3362eb/-473Wx593H-465173665-black-MODEL.jpg ",
+       "https://assets.ajio.com/medias/sys_master/root/20221019/GMkr/6350153df997ddfdbd33633b/-473Wx593H-465173665-black-MODEL3.jpg ",
+       " https://assets.ajio.com/medias/sys_master/root/20221019/7Ta3/63501537f997ddfdbd336296/-1117Wx1400H-465173665-black-MODEL2.jpg"
          ]
    },
    {
     "id":12,             
-    "name": " ",
-    "price": " ",
+    "name": "3Graphic Print T-Shir",
+    "price": "487 ",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       " https://assets.ajio.com/medias/sys_master/root/20240115/gDgz/65a4f55c16fd2c6e6aa58fa0/-1117Wx1400H-466978889-multi-MODEL.jpg",
+       "https://assets.ajio.com/medias/sys_master/root/20240115/4alI/65a4f55c16fd2c6e6aa58fe1/-1117Wx1400H-466978889-multi-MODEL2.jpg ",
+       "https://assets.ajio.com/medias/sys_master/root/20240115/c04Y/65a4f55c16fd2c6e6aa58fdf/-1117Wx1400H-466978889-multi-MODEL3.jpg "
          ]
    },
    {
     "id":13,             
-    "name": " ",
-    "price": " ",
+    "name": " Abstract Print Kurta",
+    "price": " 674",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       "https://assets.ajio.com/medias/sys_master/root/20240403/NrTS/660cec3216fd2c6e6a978b9e/-1117Wx1400H-467214653-green-MODEL.jpg ",
+       "https://assets.ajio.com/medias/sys_master/root/20240403/ohNq/660cec3216fd2c6e6a978bdc/-1117Wx1400H-467214653-green-MODEL2.jpg ",
+       "https://assets.ajio.com/medias/sys_master/root/20240403/NrTS/660cec3216fd2c6e6a978b9e/-1117Wx1400H-467214653-green-MODEL.jpg "
          ]
    },
    {
     "id":14,             
-    "name": " ",
-    "price": " ",
+    "name": "Boys Typographic T-shirt",
+    "price": "370 ",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       " https://assets.ajio.com/medias/sys_master/root/20240530/zS3z/6657828e05ac7d77bb8dbbb2/-1117Wx1400H-700022714-white-MODEL2.jpg",
+       "https://assets.ajio.com/medias/sys_master/root/20240530/pDTB/6657828e05ac7d77bb8dbb70/-1117Wx1400H-700022714-white-MODEL.jpg ",
+       " https://assets.ajio.com/medias/sys_master/root/20240530/phfl/6657828e05ac7d77bb8dbb8d/-473Wx593H-700022714-white-MODEL3.jpg"
          ]
    },
    {
     "id":15,             
-    "name": " ",
-    "price": " ",
+    "name": "Boys Checked T-Shirt",
+    "price": "810 ",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       " https://assets.ajio.com/medias/sys_master/root/20240112/AG6b/65a13eb074cb305fe0146605/-473Wx593H-466972502-blue-MODEL.jpg",
+       " https://assets.ajio.com/medias/sys_master/root/20240112/vofZ/65a13eb074cb305fe01465b2/-1117Wx1400H-466972502-blue-MODEL2.jpg",
+       " https://assets.ajio.com/medias/sys_master/root/20240112/4UH5/65a13eb074cb305fe01465b5/-1117Wx1400H-466972502-blue-MODEL4.jpg"
          ]
    },
    {
     "id":16,             
-    "name": " ",
-    "price": " ",
+    "name": "Boys Self-Design ",
+    "price": "499",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       "https://assets.ajio.com/medias/sys_master/root/20240531/wdIO/665926a016fd2c6e6a411099/-473Wx593H-700025604-wine-MODEL.jpg ",
+       " https://assets.ajio.com/medias/sys_master/root/20240531/diPN/665926a016fd2c6e6a41101b/-473Wx593H-700025604-wine-MODEL2.jpg",
+       " https://assets.ajio.com/medias/sys_master/root/20240531/RGiJ/665926a016fd2c6e6a411048/-1117Wx1400H-700025604-wine-MODEL3.jpg"
          ]
    },
    {
     "id":17,             
-    "name": " ",
-    "price": " ",
+    "name": "Cotton Suit Set",
+    "price": "1000",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       " https://assets.ajio.com/medias/sys_master/root/20230309/MJG8/64091e11f997dde6f4eb4e80/-1117Wx1400H-465879844-blue-MODEL.jpg",
+       "https://assets.ajio.com/medias/sys_master/root/20230309/NIOy/64091e11f997dde6f4eb4eba/-1117Wx1400H-465879844-blue-MODEL2.jpg ",
+       "https://assets.ajio.com/medias/sys_master/root/20230309/GmAV/64091e11f997dde6f4eb4ec0/-1117Wx1400H-465879844-blue-MODEL3.jpg "
          ]
    },
    {
     "id":18,             
-    "name": " ",
-    "price": " ",
+    "name": "Boys Typograph T-Shirt ",
+    "price": " 1543",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       " https://assets.ajio.com/medias/sys_master/root/20240215/KE1i/65cd14b716fd2c6e6af9cfce/-473Wx593H-467076931-pink-MODEL.jpg",
+       " https://assets.ajio.com/medias/sys_master/root/20240215/WbaW/65cd14e716fd2c6e6af9d062/-473Wx593H-467076931-pink-MODEL4.jpg",
+       " https://assets.ajio.com/medias/sys_master/root/20240215/cFfA/65cd14e716fd2c6e6af9d08b/-1117Wx1400H-467076931-pink-MODEL3.jpg"
          ]
    },
    {
     "id":19,             
-    "name": " ",
-    "price": " ",
+    "name": "Printed Cotton Hoodie ",
+    "price": " 262",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       "https://assets.ajio.com/medias/sys_master/root/20230724/NnyS/64be989ea9b42d15c96b3e99/-1117Wx1400H-443018998-mustard-MODEL.jpg ",
+       " https://assets.ajio.com/medias/sys_master/root/20230724/P1OE/64be8dd4a9b42d15c96af309/-1117Wx1400H-443018998-mustard-MODEL2.jpg",
+       " https://assets.ajio.com/medias/sys_master/root/20230724/Bpf2/64be9902a9b42d15c96b4120/-1117Wx1400H-443018998-mustard-MODEL3.jpg"
          ]
    },
    {
     "id":20,             
-    "name": " ",
-    "price": " ",
+    "name": "Girls Leaf top",
+    "price": " 648",
     "sizes": ["S", "M", "L", "XL"],
     "images": [
-       " ",
-       " ",
-       " "
+       "https://assets.ajio.com/medias/sys_master/root/20240408/mP4M/6613f12b16fd2c6e6aa4f0eb/-1117Wx1400H-467237387-yellow-MODEL.jpg ",
+       " https://assets.ajio.com/medias/sys_master/root/20240408/0mZn/6613f12b16fd2c6e6aa4f127/-1117Wx1400H-467237387-yellow-MODEL2.jpg",
+       " https://assets.ajio.com/medias/sys_master/root/20240408/PWwP/6613f12b16fd2c6e6aa4f128/-1117Wx1400H-467237387-yellow-MODEL4.jpg"
          ]
    }
                    
