@@ -3,7 +3,7 @@
         {
    "id":1,             
 "name": "Awesome Product",
-"price": "29.99",
+"price :  &#8377;" : "29.99",
 "sizes": ["S", "M", "L", "XL"],
 "images": [
     "https://www.berrylush.com/cdn/shop/products/1_front_36065fc7-b8f9-49d0-88a0-c7ca13f826be.jpg?v=1700476681&width=1000",
