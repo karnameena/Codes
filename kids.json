@@ -1,0 +1,224 @@
+{"products": [
+        
+    {
+"id":1,             
+"name": "Floral Print Fit&Flare Dress",
+"price": "660 ",
+"sizes": ["S", "M", "L", "XL"],
+"images": [
+   " https://assets.ajio.com/medias/sys_master/root/20240311/TWEF/65eee06216fd2c6e6a4c62e3/-473Wx593H-467151090-pink-MODEL.jpg",
+   "https://assets.ajio.com/medias/sys_master/root/20240311/zO47/65eee06916fd2c6e6a4c6352/-1117Wx1400H-467151090-pink-MODEL2.jpg ",
+   " https://assets.ajio.com/medias/sys_master/root/20240311/XmlE/65eee06916fd2c6e6a4c635c/-1117Wx1400H-467151090-pink-MODEL3.jpg"
+     ]
+    },
+    {
+"id":2,             
+"name": "Girls Ribbed A-Line Dress ",
+"price": "540 ",
+"sizes": ["S", "M", "L", "XL"],
+"images": [
+   "https://assets.ajio.com/medias/sys_master/root/20240214/vFLq/65cbd71316fd2c6e6af65d14/-473Wx593H-467070182-peach-MODEL.jpg ",
+   "https://assets.ajio.com/medias/sys_master/root/20240214/Z5yd/65cbd71316fd2c6e6af65c9b/-473Wx593H-467070182-peach-MODEL2.jpg ",
+   "https://assets.ajio.com/medias/sys_master/root/20240214/zZW7/65cbd71316fd2c6e6af65cc8/-1117Wx1400H-467070182-peach-MODEL3.jpg "
+     ]       
+            },
+ {
+ "id":3,             
+"name": "Girl Floral Print  ",
+"price": "649 ",
+"sizes": ["S", "M", "L", "XL"],
+"images": [
+    "https://assets.ajio.com/medias/sys_master/root/20231025/kvR6/65386e4eddf779151956510b/-1117Wx1400H-466742795-pink-MODEL.jpg ",
+    "https://assets.ajio.com/medias/sys_master/root/20231025/Z57K/65386e4eddf779151956513a/-1117Wx1400H-466742795-pink-MODEL2.jpg ",
+    "https://assets.ajio.com/medias/sys_master/root/20231025/2n2l/65386e4eddf7791519565145/-1117Wx1400H-466742795-pink-MODEL4.jpg "
+      ]
+},
+{
+    "id":4,             
+   "name": "Girls Pack of 2 Graphic  ",
+   "price": " 440 ",
+   "sizes": ["S", "M", "L", "XL"],
+   "images": [
+    "https://assets.ajio.com/medias/sys_master/root/20240622/Bd5g/66766c001d763220fafcfc7e/-473Wx593H-700114300-multi-MODEL.jpg ",
+    " https://assets.ajio.com/medias/sys_master/root/20240622/Vsqi/66766c001d763220fafcfc25/-1117Wx1400H-700114300-multi-MODEL2.jpg",
+    " https://assets.ajio.com/medias/sys_master/root/20240622/bvBM/66766c001d763220fafcfc00/-473Wx593H-700114300-multi-MODEL5.jpg"
+      ]
+   },
+   {
+    "id":5,             
+   "name": "Girls Tie & Dye Shirt Dress ",
+   "price": " 699 ",
+   "sizes": ["S", "M", "L", "XL"],
+   "images": [
+    "https://assets.ajio.com/medias/sys_master/root/20240404/b3sx/660dafa516fd2c6e6a9bdcc5/-1117Wx1400H-467228278-blue-MODEL.jpg ",
+    " https://assets.ajio.com/medias/sys_master/root/20240404/LV50/660dafa516fd2c6e6a9bdd07/-1117Wx1400H-467228278-blue-MODEL3.jpg",
+    " https://assets.ajio.com/medias/sys_master/root/20240404/dPp3/660dafa516fd2c6e6a9bdcff/-1117Wx1400H-467228278-blue-MODEL2.jpg"
+      ]
+   },
+   {
+    "id":6,             
+  "name": " ",
+ "price": " ",
+ "sizes": ["S", "M", "L", "XL"],
+ "images": [
+    " ",
+    " ",
+    " "
+      ]
+   },
+   {
+    "id":7,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":8,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":9,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":10,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":11,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":12,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":13,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":14,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":15,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":16,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":17,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":18,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":19,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":20,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   }
+                   
+]}
