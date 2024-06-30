@@ -3,7 +3,7 @@
     {
 "id":1,             
 "name": "Flared Wrap Maxi Dress",
-"price": "1399",
+"price  &#8377;": "1399",
 "sizes": ["S", "M", "L", "XL"],
 "images": [
 "https://www.berrylush.com/cdn/shop/products/1_front_36065fc7-b8f9-49d0-88a0-c7ca13f826be.jpg?v=1700476681&width=1000",
@@ -13,46 +13,46 @@
     },
     {
 "id":2,             
-"name": "Awesome Product",
-"price": "29.99",
+"name": "Black Solid Boat Neck Sleeveless ",
+"price": "987",
  "sizes": ["S", "M", "L", "XL"],
 "images": [
-"https://www.berrylush.com/cdn/shop/products/1_front_36065fc7-b8f9-49d0-88a0-c7ca13f826be.jpg?v=1700476681&width=1000",
- "https://www.berrylush.com/cdn/shop/products/1_77598113-2388-4424-a26a-b70a88a7ab2e.jpg?v=1698831429&width=1000",
-"https://www.berrylush.com/cdn/shop/products/1_0e7cf2b4-2e90-440f-a7cd-f881083b2ded.jpg?v=1698831678&width=1000"
+" https://www.berrylush.com/cdn/shop/files/1_caf2c1f3-8798-4669-9090-8f57539fb573.jpg?v=1712577844&width=1000",
+ "https://www.berrylush.com/cdn/shop/files/6_93f63285-023a-43d0-b68a-741800ac5fde.jpg?v=1712577842&width=1000",
+"https://www.berrylush.com/cdn/shop/files/2_f44d1a6d-52c1-451e-8204-d1d447dd4747.jpg?v=1712577845&width=1000"
         ]        
             },
  {
  "id":3,             
-"name": "Awesome Product",
-"price": "29.99",
+"name": "Blue Collared Neck Puff Sleeves",
+"price": "885",
 "sizes": ["S", "M", "L", "XL"],
 "images": [
-"https://www.berrylush.com/cdn/shop/products/1_front_36065fc7-b8f9-49d0-88a0-c7ca13f826be.jpg?v=1700476681&width=1000",
-"https://www.berrylush.com/cdn/shop/products/1_77598113-2388-4424-a26a-b70a88a7ab2e.jpg?v=1698831429&width=1000",
-"https://www.berrylush.com/cdn/shop/products/1_0e7cf2b4-2e90-440f-a7cd-f881083b2ded.jpg?v=1698831678&width=1000"
+"https://www.berrylush.com/cdn/shop/files/12-02-2405968.jpg?v=1712132023&width=1000",
+" https://www.berrylush.com/cdn/shop/files/1_c6a4aa16-2589-474e-9603-955f251281fa.jpg?v=1712132006&width=1000",
+" https://www.berrylush.com/cdn/shop/files/12-02-2405971.jpg?v=1712132023&width=1000"
                 ]
 },
 {
     "id":4,             
-   "name": "Awesome Product",
-   "price": "29.99",
+   "name": "White High-Neck Bishop Sleeve",
+   "price": "584",
    "sizes": ["S", "M", "L", "XL"],
    "images": [
-   "https://www.berrylush.com/cdn/shop/products/1_front_36065fc7-b8f9-49d0-88a0-c7ca13f826be.jpg?v=1700476681&width=1000",
-   "https://www.berrylush.com/cdn/shop/products/1_77598113-2388-4424-a26a-b70a88a7ab2e.jpg?v=1698831429&width=1000",
-   "https://www.berrylush.com/cdn/shop/products/1_0e7cf2b4-2e90-440f-a7cd-f881083b2ded.jpg?v=1698831678&width=1000"
+   " https://www.berrylush.com/cdn/shop/products/1_77598113-2388-4424-a26a-b70a88a7ab2e.jpg?v=1698831429&width=1000",
+   " https://www.berrylush.com/cdn/shop/products/2_33b2a4f7-1272-429b-9691-c17a89262134.jpg?v=1698831429&width=1000",
+   " https://www.berrylush.com/cdn/shop/products/6_af1dac75-544c-4cc4-b3c6-db366fda3eb2.jpg?v=1698831429&width=1000"
                    ]
    },
    {
     "id":5,             
-   "name": "Awesome Product",
-   "price": "29.99",
+   "name": " Green Floral Print V-Neck ",
+   "price": "597",
    "sizes": ["S", "M", "L", "XL"],
    "images": [
-   "https://www.berrylush.com/cdn/shop/products/1_front_36065fc7-b8f9-49d0-88a0-c7ca13f826be.jpg?v=1700476681&width=1000",
-   "https://www.berrylush.com/cdn/shop/products/1_77598113-2388-4424-a26a-b70a88a7ab2e.jpg?v=1698831429&width=1000",
-   "https://www.berrylush.com/cdn/shop/products/1_0e7cf2b4-2e90-440f-a7cd-f881083b2ded.jpg?v=1698831678&width=1000"
+   " https://www.berrylush.com/cdn/shop/files/5_6e0a0a64-cfe0-4ddb-8d73-22c1e229af42.jpg?v=1717758977&width=1000",
+   "https://www.berrylush.com/cdn/shop/files/2_4ed7cd6c-87d8-4819-9d69-940b22d5a272.jpg?v=1717758977&width=1000",
+   " https://www.berrylush.com/cdn/shop/files/6_db3e22cf-747e-4054-bb32-bebae69f170b.jpg?v=1717493708&width=1000"
                    ]
    },
    {
