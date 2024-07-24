@@ -1,0 +1,224 @@
+{"products": [
+        
+    {
+"id":1,             
+"name": " Embroidered T-Shirt",
+"price": " 1000",
+"sizes": ["S", "M", "L", "XL"],
+"images": [
+   "https://assets.ajio.com/medias/sys_master/root/20240712/nih0/669144466f60443f31fa4375/-473Wx593H-410409983-r6t-MODEL.jpg ",
+   "https://assets.ajio.com/medias/sys_master/root/20240712/eX9s/6691451b6f60443f31fa5e70/-1117Wx1400H-410409983-r6t-MODEL7.jpg ",
+   " https://assets.ajio.com/medias/sys_master/root/20240712/rjQa/669144e56f60443f31fa5710/-1117Wx1400H-410409983-r6t-MODEL3.jpg"
+     ]
+    },
+    {
+"id":2,             
+"name": "Polo T-Shirt",
+"price": " 500",
+"sizes": ["S", "M", "L", "XL"],
+"images": [
+   "https://assets.ajio.com/medias/sys_master/root/20240716/wcYF/6696b11e1d763220fac8da44/-1117Wx1400H-467337610-navy-MODEL.jpg ",
+   " https://assets.ajio.com/medias/sys_master/root/20240716/ULi2/6696b1221d763220fac8da61/-1117Wx1400H-467337610-navy-MODEL2.jpg",
+   " https://assets.ajio.com/medias/sys_master/root/20240716/mL2O/6696b1241d763220fac8da6c/-1117Wx1400H-467337610-navy-MODEL3.jpg"
+     ]       
+            },
+ {
+ "id":3,             
+"name": "darga T-Shirt ",
+"price": "489 ",
+"sizes": ["S", "M", "L", "XL"],
+"images": [
+    " https://assets.ajio.com/medias/sys_master/root/20230628/qqrd/649bb265eebac147fc1d450e/-1117Wx1400H-465891440-teal-MODEL.jpg",
+    " https://assets.ajio.com/medias/sys_master/root/20230628/uwUZ/649bb265eebac147fc1d453d/-1117Wx1400H-465891440-teal-MODEL2.jpg",
+    "https://assets.ajio.com/medias/sys_master/root/20230628/qqrd/649bb265eebac147fc1d450e/-1117Wx1400H-465891440-teal-MODEL.jpg "
+      ]
+},
+{
+    "id":4,             
+   "name": "Crew-Neck T-Shirt ",
+   "price": " 699 ",
+   "sizes": ["S", "M", "L", "XL"],
+   "images": [
+    "https://www.ajio.com/maniac-men-colourblock-oversized-crew-neck-t-shirt/p/467319885_black ",
+    " https://assets.ajio.com/medias/sys_master/root/20240716/2RSL/6696b1091d763220fac8d994/-1117Wx1400H-467319885-black-MODEL2.jpg",
+    " https://assets.ajio.com/medias/sys_master/root/20240716/Bco6/6696b1091d763220fac8d995/-1117Wx1400H-467319885-black-MODEL3.jpg"
+      ]
+   },
+   {
+    "id":5,             
+   "name": "GSlim Fit Short",
+   "price": "575 ",
+   "sizes": ["S", "M", "L", "XL"],
+   "images": [
+    "https://assets.ajio.com/medias/sys_master/root/20240502/5XJG/663395fd05ac7d77bb38d4f8/-1117Wx1400H-467295264-white-MODEL.jpg ",
+    " https://assets.ajio.com/medias/sys_master/root/20240502/Nr0C/663395fd05ac7d77bb38d537/-1117Wx1400H-467295264-white-MODEL4.jpg",
+    " https://assets.ajio.com/medias/sys_master/root/20240502/AnN0/663395fd05ac7d77bb38d536/-1117Wx1400H-467295264-white-MODEL2.jpg"
+      ]
+   },
+   {
+    "id":6,             
+  "name": " Round-Neck T-Shirt",
+ "price": " 355",
+ "sizes": ["S", "M", "L", "XL"],
+ "images": [
+    "https://assets.ajio.com/medias/sys_master/root/20231026/L34m/653a3f2cafa4cf41f56164ed/-1117Wx1400H-466735487-grey-MODEL.jpg ",
+    " https://assets.ajio.com/medias/sys_master/root/20231026/qBuy/653a3f2cafa4cf41f5616518/-1117Wx1400H-466735487-grey-MODEL2.jpg",
+    " https://assets.ajio.com/medias/sys_master/root/20231026/L34m/653a3f2cafa4cf41f56164ed/-1117Wx1400H-466735487-grey-MODEL.jpg"
+      ]
+   },
+   {
+    "id":7,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":8,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":9,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":10,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":11,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":12,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":13,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":14,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":15,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":16,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":17,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":18,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":19,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   },
+   {
+    "id":20,             
+    "name": " ",
+    "price": " ",
+    "sizes": ["S", "M", "L", "XL"],
+    "images": [
+       " ",
+       " ",
+       " "
+         ]
+   }
+                   
+]}
