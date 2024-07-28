@@ -80,7 +80,7 @@
 },
 {
 "id":8,             
-"name": "Crew-Neck T-Shirt ",
+"name": "T-Shirt Trousers ",
 "price": " 810",
 "sizes": ["S", "M", "L", "XL"],
 "images": [
@@ -91,7 +91,7 @@
 },
 {
 "id":9,             
-"name": "Cargo Joggers ",
+"name": "Cargo Pants Joggers ",
 "price": " 1250",
 "sizes": ["S", "M", "L", "XL"],
 "images": [
