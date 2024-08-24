@@ -1,0 +1,117 @@
+{"products": [
+    {
+"id":1,             
+"name": "Men Low-Top Shoes ",
+"price": "819",
+"sizes": [6,7,8,9,10],
+"images": [
+   "https://assets.ajio.com/medias/sys_master/root/20240523/ym3U/664f404416fd2c6e6a1eb0a8/-1117Wx1400H-466557348-white-MODEL.jpg",
+   "https://assets.ajio.com/medias/sys_master/root/20240523/pRzB/664f38c716fd2c6e6a1e844f/-473Wx593H-466557348-white-MODEL7.jpg",
+   "https://assets.ajio.com/medias/sys_master/root/20240523/p2M3/664f402d05ac7d77bb72db14/-1117Wx1400H-466557348-white-MODEL3.jpg"
+ ]
+},
+{
+"id":2,             
+"name": "Men Colourblock ",
+"price": " 799",
+"sizes": [6,7,8,9,10],
+"images": [
+   " https://assets.ajio.com/medias/sys_master/root/20240523/HUxK/664f462016fd2c6e6a1f130c/-1117Wx1400H-467025857-maroon-MODEL.jpg",
+   "https://assets.ajio.com/medias/sys_master/root/20240523/40gr/664f3f5d16fd2c6e6a1eabc6/-473Wx593H-467025857-maroon-MODEL5.jpg",
+   "https://assets.ajio.com/medias/sys_master/root/20240523/9FHn/664f413516fd2c6e6a1eb4bb/-1117Wx1400H-467025857-maroon-MODEL3.jpg"
+ ]
+ },{
+   "id":3,             
+   "name": "Round-Toe Ballerinas ",
+   "price": "600 ",
+   "sizes": [6,7,8,9,10],
+   "images": [
+      "https://assets.ajio.com/medias/sys_master/root/20230628/HDZw/649bd8e3a9b42d15c90bd1f4/-1117Wx1400H-465945888-white-MODEL.jpg",
+      "https://assets.ajio.com/medias/sys_master/root/20230628/WWOx/649bd8e3a9b42d15c90bd22f/-1117Wx1400H-465945888-white-MODEL2.jpg",
+      "https://assets.ajio.com/medias/sys_master/root/20230628/xhrG/649bd8e3a9b42d15c90bd239/-1117Wx1400H-465945888-white-MODEL3.jpg"
+    ]
+    },
+    {
+      "id":4,             
+      "name": " Slip-On Pointed ",
+      "price": "555 ",
+      "sizes": [6,7,8,9,10],
+      "images": [
+         "https://assets.ajio.com/medias/sys_master/root/20230822/xQ0a/64e40de1ddf77915195a3f1d/-1117Wx1400H-466480928-black-MODEL.jpg",
+         "https://assets.ajio.com/medias/sys_master/root/20230822/FYJE/64e40de1ddf77915195a3f5e/-1117Wx1400H-466480928-black-MODEL2.jpg",
+         "https://assets.ajio.com/medias/sys_master/root/20230822/D3Py/64e40de1ddf77915195a3f58/-1117Wx1400H-466480928-black-MODEL3.jpg"
+
+       ]
+       },
+       {
+     "id":5,             
+"name": "Kurta Dhoti  ",
+"price": "1599 ",
+"sizes": ["S", "M", "L", "XL"],
+"images": [
+ "https://assets.ajio.com/medias/sys_master/root/20220830/yPhJ/630de161f997dd1f8dc68ab1/-1117Wx1400H-462333078-navy-MODEL.jpg ",
+ " https://assets.ajio.com/medias/sys_master/root/20220830/CJRK/630de161f997dd1f8dc68ad1/-473Wx593H-462333078-navy-MODEL3.jpg",
+ " https://assets.ajio.com/medias/sys_master/root/20220830/Kq0C/630de161f997dd1f8dc68afe/-1117Wx1400H-462333078-navy-MODEL2.jpg"
+   ]
+},
+{
+"id":6,             
+"name": "Denim Shirt ",
+"price": "799 ",
+"sizes": ["S", "M", "L", "XL"],
+"images": [
+ "https://assets.ajio.com/medias/sys_master/root/20240603/xR3n/665ddb0e05ac7d77bb98bfcc/-1117Wx1400H-469534905-blue-MODEL.jpg",
+ " https://assets.ajio.com/medias/sys_master/root/20240603/2SES/665dcc6505ac7d77bb9875d5/-1117Wx1400H-469534905-blue-MODEL2.jpg",
+ "https://assets.ajio.com/medias/sys_master/root/20240603/ViaB/665ddead16fd2c6e6a47a897/-1117Wx1400H-469534905-blue-MODEL3.jpg "
+   ]
+},  {
+   "id":7,             
+   "name": "Flared Wrap Maxi Dress",
+   "price": "1399",
+   "sizes": ["S", "M", "L", "XL"],
+   "images": [
+   "https://www.berrylush.com/cdn/shop/products/1_front_36065fc7-b8f9-49d0-88a0-c7ca13f826be.jpg?v=1700476681&width=1000",
+   "https://www.berrylush.com/cdn/shop/products/6_91f2c60d-86df-4a76-bfe4-f9fc2ac6f040.jpg?v=1700476681&width=1000",
+   "https://www.berrylush.com/cdn/shop/products/3_72224f98-5e71-46c5-aa3f-f06aa5665cbd.jpg?v=1700476681&width=1000"
+   ]
+       },
+       {
+   "id":8,             
+   "name": "Black Solid Boat Neck",
+   "price": "987",
+    "sizes": ["S", "M", "L", "XL"],
+   "images": [
+   " https://www.berrylush.com/cdn/shop/files/1_caf2c1f3-8798-4669-9090-8f57539fb573.jpg?v=1712577844&width=1000",
+    "https://www.berrylush.com/cdn/shop/files/6_93f63285-023a-43d0-b68a-741800ac5fde.jpg?v=1712577842&width=1000",
+   "https://www.berrylush.com/cdn/shop/files/2_f44d1a6d-52c1-451e-8204-d1d447dd4747.jpg?v=1712577845&width=1000"
+           ]        
+               },
+               {
+                  "id":9,             
+                  "name": "Floral Print Fit&Flare",
+                  "price": "660 ",
+                  "sizes": ["S", "M", "L", "XL"],
+                  "images": [
+                     " https://assets.ajio.com/medias/sys_master/root/20240311/TWEF/65eee06216fd2c6e6a4c62e3/-473Wx593H-467151090-pink-MODEL.jpg",
+                     "https://assets.ajio.com/medias/sys_master/root/20240311/zO47/65eee06916fd2c6e6a4c6352/-1117Wx1400H-467151090-pink-MODEL2.jpg ",
+                     " https://assets.ajio.com/medias/sys_master/root/20240311/XmlE/65eee06916fd2c6e6a4c635c/-1117Wx1400H-467151090-pink-MODEL3.jpg"
+                       ]
+                      },
+                      {
+                  "id":10,             
+                  "name": "Girls Ribbed A-Line",
+                  "price": "540 ",
+                  "sizes": ["S", "M", "L", "XL"],
+                  "images": [
+                     "https://assets.ajio.com/medias/sys_master/root/20240214/vFLq/65cbd71316fd2c6e6af65d14/-473Wx593H-467070182-peach-MODEL.jpg ",
+                     "https://assets.ajio.com/medias/sys_master/root/20240214/Z5yd/65cbd71316fd2c6e6af65c9b/-473Wx593H-467070182-peach-MODEL2.jpg ",
+                     "https://assets.ajio.com/medias/sys_master/root/20240214/zZW7/65cbd71316fd2c6e6af65cc8/-1117Wx1400H-467070182-peach-MODEL3.jpg "
+                       ]       
+                              }
+
+
+
+
+
+
+      ]}
